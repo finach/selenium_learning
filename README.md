@@ -2,7 +2,7 @@
 This is a project to learn web automation testing.
 
 Testing target: 
-https://www.seleniumeasy.com/test/
+https://demo.seleniumeasy.com/
 
 ### Logger
 Log config file as 'logging.yaml'.
